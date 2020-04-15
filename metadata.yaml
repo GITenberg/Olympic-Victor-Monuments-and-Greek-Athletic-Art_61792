@@ -1,11 +1,16 @@
 _repo: Olympic-Victor-Monuments-and-Greek-Athletic-Art_61792
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61792-h/images/cover.jpg
 creator:
   author:
     agent_name: Hyde, Walter Woodburn
     gutenberg_agent_id: '51615'
     url: http://www.gutenberg.org/2009/agents/51615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61792#Olympic-Victor-Monuments-and-Greek-Athletic-Art
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
